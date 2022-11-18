@@ -6,7 +6,7 @@
 🙋‍♀️ A short introduction\
 A Minecraft Server
 
-🌈 Contribution guidelines\ 
+🌈 Contribution guidelines\
 Discord: https://discord.gg/dYPUDAbAgw
 
 🍿 Fun facts\
