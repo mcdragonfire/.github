@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 
 **Dragonfire:**
 
@@ -12,4 +11,3 @@ Discord: https://discord.gg/dYPUDAbAgw
 🍿 Fun facts
 
 Working on Bitcoin implementation
--->
